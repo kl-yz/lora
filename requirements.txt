@@ -1,0 +1,8 @@
+# Install a CUDA-compatible torch build first, then install these packages.
+unsloth
+trl
+datasets
+accelerate
+bitsandbytes
+peft
+transformers

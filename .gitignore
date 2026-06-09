@@ -1,0 +1,10 @@
+outputs
+llama.cpp-rebuild
+llama.cpp-local
+.vscode
+.codex
+.agents
+Qwen3.5-2B_gguf
+unsloth_compiled_cache
+Qwen3.5-2B
+__pycache__
